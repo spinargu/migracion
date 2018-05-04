@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<dbDriverName>com.mysql.jdbc.Driver</dbDriverName>
+     <user>admin</user>
+    <pass>admin</pass>
+ 	<db>portalin_inegi</db>
+    <url>jdbc:mysql://localhost/</url>
+    <maxactive>50</maxactive>
+    <maxidle>25</maxidle>
+    <timeout>10000</timeout>
+    <maxwait>5000</maxwait>
+</config>
